@@ -1,0 +1,14 @@
+C:\Users\acronuslg_sup\source\repos\antes da prova\antes da prova\bin\Debug\net8.0\antes da prova.exe
+C:\Users\acronuslg_sup\source\repos\antes da prova\antes da prova\bin\Debug\net8.0\antes da prova.deps.json
+C:\Users\acronuslg_sup\source\repos\antes da prova\antes da prova\bin\Debug\net8.0\antes da prova.runtimeconfig.json
+C:\Users\acronuslg_sup\source\repos\antes da prova\antes da prova\bin\Debug\net8.0\antes da prova.dll
+C:\Users\acronuslg_sup\source\repos\antes da prova\antes da prova\bin\Debug\net8.0\antes da prova.pdb
+C:\Users\acronuslg_sup\source\repos\antes da prova\antes da prova\obj\Debug\net8.0\antes da prova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acronuslg_sup\source\repos\antes da prova\antes da prova\obj\Debug\net8.0\antes da prova.AssemblyInfoInputs.cache
+C:\Users\acronuslg_sup\source\repos\antes da prova\antes da prova\obj\Debug\net8.0\antes da prova.AssemblyInfo.cs
+C:\Users\acronuslg_sup\source\repos\antes da prova\antes da prova\obj\Debug\net8.0\antes da prova.csproj.CoreCompileInputs.cache
+C:\Users\acronuslg_sup\source\repos\antes da prova\antes da prova\obj\Debug\net8.0\antes da prova.dll
+C:\Users\acronuslg_sup\source\repos\antes da prova\antes da prova\obj\Debug\net8.0\refint\antes da prova.dll
+C:\Users\acronuslg_sup\source\repos\antes da prova\antes da prova\obj\Debug\net8.0\antes da prova.pdb
+C:\Users\acronuslg_sup\source\repos\antes da prova\antes da prova\obj\Debug\net8.0\antes da prova.genruntimeconfig.cache
+C:\Users\acronuslg_sup\source\repos\antes da prova\antes da prova\obj\Debug\net8.0\ref\antes da prova.dll
