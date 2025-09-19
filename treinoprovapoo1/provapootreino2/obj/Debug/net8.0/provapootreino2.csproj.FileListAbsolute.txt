@@ -1,0 +1,14 @@
+C:\Users\encin\source\repos\provapootreino2\bin\Debug\net8.0\provapootreino2.exe
+C:\Users\encin\source\repos\provapootreino2\bin\Debug\net8.0\provapootreino2.deps.json
+C:\Users\encin\source\repos\provapootreino2\bin\Debug\net8.0\provapootreino2.runtimeconfig.json
+C:\Users\encin\source\repos\provapootreino2\bin\Debug\net8.0\provapootreino2.dll
+C:\Users\encin\source\repos\provapootreino2\bin\Debug\net8.0\provapootreino2.pdb
+C:\Users\encin\source\repos\provapootreino2\obj\Debug\net8.0\provapootreino2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\encin\source\repos\provapootreino2\obj\Debug\net8.0\provapootreino2.AssemblyInfoInputs.cache
+C:\Users\encin\source\repos\provapootreino2\obj\Debug\net8.0\provapootreino2.AssemblyInfo.cs
+C:\Users\encin\source\repos\provapootreino2\obj\Debug\net8.0\provapootreino2.csproj.CoreCompileInputs.cache
+C:\Users\encin\source\repos\provapootreino2\obj\Debug\net8.0\provapootreino2.dll
+C:\Users\encin\source\repos\provapootreino2\obj\Debug\net8.0\refint\provapootreino2.dll
+C:\Users\encin\source\repos\provapootreino2\obj\Debug\net8.0\provapootreino2.pdb
+C:\Users\encin\source\repos\provapootreino2\obj\Debug\net8.0\provapootreino2.genruntimeconfig.cache
+C:\Users\encin\source\repos\provapootreino2\obj\Debug\net8.0\ref\provapootreino2.dll
