@@ -1,0 +1,14 @@
+C:\Users\rebeca.echeli\source\repos\poo7\poo7\bin\Debug\net8.0\poo7.exe
+C:\Users\rebeca.echeli\source\repos\poo7\poo7\bin\Debug\net8.0\poo7.deps.json
+C:\Users\rebeca.echeli\source\repos\poo7\poo7\bin\Debug\net8.0\poo7.runtimeconfig.json
+C:\Users\rebeca.echeli\source\repos\poo7\poo7\bin\Debug\net8.0\poo7.dll
+C:\Users\rebeca.echeli\source\repos\poo7\poo7\bin\Debug\net8.0\poo7.pdb
+C:\Users\rebeca.echeli\source\repos\poo7\poo7\obj\Debug\net8.0\poo7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebeca.echeli\source\repos\poo7\poo7\obj\Debug\net8.0\poo7.AssemblyInfoInputs.cache
+C:\Users\rebeca.echeli\source\repos\poo7\poo7\obj\Debug\net8.0\poo7.AssemblyInfo.cs
+C:\Users\rebeca.echeli\source\repos\poo7\poo7\obj\Debug\net8.0\poo7.csproj.CoreCompileInputs.cache
+C:\Users\rebeca.echeli\source\repos\poo7\poo7\obj\Debug\net8.0\poo7.dll
+C:\Users\rebeca.echeli\source\repos\poo7\poo7\obj\Debug\net8.0\refint\poo7.dll
+C:\Users\rebeca.echeli\source\repos\poo7\poo7\obj\Debug\net8.0\poo7.pdb
+C:\Users\rebeca.echeli\source\repos\poo7\poo7\obj\Debug\net8.0\poo7.genruntimeconfig.cache
+C:\Users\rebeca.echeli\source\repos\poo7\poo7\obj\Debug\net8.0\ref\poo7.dll
